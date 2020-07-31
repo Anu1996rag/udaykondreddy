@@ -3,7 +3,7 @@
 - :computer: I code using Python
 - 🌱 I’m currently working at [Dhanvantari AI](https://www.dhan.ai/) on RASA and deep learning.
 - 🗣 I’m also the founder of Learn Machine Learning Community
-- 👯 I'm also open for any collaborations related to project/community.
+- 👯 I'm also open for collaborations related to project/community.
 - 📫 More about me: [udaykiran.dev](https://udaykiran.dev)
 - 😄 Pronouns: He/His
 
