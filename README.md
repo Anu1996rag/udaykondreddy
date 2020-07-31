@@ -1,6 +1,4 @@
-### Hello World! 👋
-
-I am **Uday Kiran**!! 😈
+### Hello World! 👋 I am **Uday Kiran**!! 😈
 
 - :computer: I code using Python
 - 🌱 I’m currently working at [Dhanvantari AI](https://www.dhan.ai/) on RASA and deep learning.
